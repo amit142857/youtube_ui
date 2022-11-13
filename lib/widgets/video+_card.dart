@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:timeago/timeago.dart' as timeago;
 import '../data.dart';
 
+
 class VideoCard extends StatelessWidget {
   final Video video;
 
